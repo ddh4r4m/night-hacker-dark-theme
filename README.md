@@ -12,9 +12,9 @@ to customize the currently selected theme. For example, you can add this snippet
 
 ```json
 "workbench.colorCustomizations": {
-  "tab.activeBackground": "#282c34",
-  "activityBar.background": "#282c34",
-  "sideBar.background": "#282c34"
+  "tab.activeBackground": "#12071c",
+  "activityBar.background": "#12071c",
+  "sideBar.background": "#12071c"
 }
 ```
 
@@ -34,6 +34,25 @@ or use the setting `editor.tokenColorCustomizations`
   }
 }
 ```
+## Usage
+
+Select the theme and go!
+
+## Installation
+
+1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
+1. Search for `Night Hacker Dark Theme`
+1. Click **Install**
+1. Click **Reload**
+1. File > Preferences > Color Theme > **Night Hacker Dark Theme**
+
+## Feedback
+
+If you have suggestions, please [open an issue](https://github.com/rkstrdee/night-hacker-dark-theme/issues) or better yet, a [pull request](https://github.com/rkstrdee/night-hacker-dark-theme/pulls).
+
+Be nice.
+
+
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/rkstrdee/night-hacker-dark-theme/graphs/contributors).

@@ -11,16 +11,19 @@
     "engines": {
         "vscode": "^1.55.0"
     },
+    "icon": "screenshots/icon.png"
+    ,
     "keywords": [
+        "night hacker dark theme",
         "theme",
         "dark theme",
-        "rkstrdee",
         "hacker theme",
-        "blue theme",
+        "night theme",
         "color theme",
         "cyberpunk",
         "GTA",
-        "anime theme"
+        "anime theme",
+        "dark knight theme"
     ],
     "categories": [
         "Themes"
