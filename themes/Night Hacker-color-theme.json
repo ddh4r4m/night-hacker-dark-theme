@@ -192,15 +192,16 @@
       "terminal.ansiYellow": "#d0ff00",
       "terminalCursor.background": "#060016",
       "terminalCursor.foreground": "#06D6A0",
-      "textLink.activeForeground": "#0094C6",
-      "textLink.foreground": "#120A18",
+      "textLink.activeForeground": "#00b9f7",
+      "textLink.foreground": "#970fff",
       "titleBar.activeBackground": "#060016",
       "titleBar.activeForeground": "#0094C6",
       "titleBar.border": "#06001660",
       "titleBar.inactiveBackground": "#060016",
-      "titleBar.inactiveForeground": "#120A18",
+      "titleBar.inactiveForeground": "#2a0348",
       "tree.indentGuidesStroke": "#1B005E",
       "widget.shadow": "#06001630",
+	  "welcomePage.buttonHoverBackground": "#1a0142"
 
 	},
 	"tokenColors": [
