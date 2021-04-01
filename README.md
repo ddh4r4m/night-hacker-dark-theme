@@ -3,7 +3,7 @@
 
 
 # Default Theme
-![Screenshot](https://github.com/rkstrdee/night-hacker-dark-theme/blob/main/screenshots/NightHacker_default_Theme.png)
+![Screenshot](https://raw.githubusercontent.com/rkstrdee/night-hacker-dark-theme/a3b41d2faa9fadc130283665f839438814055afe/screenshots/NightHacker_default_Theme.png)
 
 # Tweaks and theming
 
