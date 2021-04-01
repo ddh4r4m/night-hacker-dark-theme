@@ -3,7 +3,7 @@
     "displayName": "Night Hacker Dark Theme",
     "description": "A Dark theme for VSCode",
     "publisher": "ddh4r4m",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/rkstrdee/night-hacker-dark-theme"
@@ -15,11 +15,12 @@
         "theme",
         "dark theme",
         "rkstrdee",
-        "hacker",
+        "hacker theme",
         "blue theme",
-        "owl theme",
+        "color theme",
         "cyberpunk",
-        "GTA"
+        "GTA",
+        "anime theme"
     ]
     ,
     "categories": [
