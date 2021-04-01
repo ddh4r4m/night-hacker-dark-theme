@@ -195,10 +195,10 @@
       "textLink.activeForeground": "#00b9f7",
       "textLink.foreground": "#970fff",
       "titleBar.activeBackground": "#060016",
-      "titleBar.activeForeground": "#0094C6",
+      "titleBar.activeForeground": "#36b0f7",
       "titleBar.border": "#06001660",
       "titleBar.inactiveBackground": "#060016",
-      "titleBar.inactiveForeground": "#2a0348",
+      "titleBar.inactiveForeground": "#0094C6",
       "tree.indentGuidesStroke": "#1B005E",
       "widget.shadow": "#06001630",
 	  "welcomePage.buttonHoverBackground": "#1a0142"
