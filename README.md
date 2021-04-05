@@ -46,6 +46,18 @@ Select the theme and go!
 1. Click **Reload**
 1. File > Preferences > Color Theme > **Night Hacker Dark Theme**
 
+## Further Customization
+If you want to set up the panel to the right side of the screen as shown,
+then open Preferences:Open Settings (JSON) and add these lines, depending on your comfort.
+```json
+    "workbench.sideBar.location": "right",    
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.fontSize": 15,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Night Hacker",
+    "window.zoomLevel": -1
+```
+
 ## Feedback
 
 If you have suggestions, please [open an issue](https://github.com/rkstrdee/night-hacker-dark-theme/issues) or better yet, a [pull request](https://github.com/rkstrdee/night-hacker-dark-theme/pulls).
