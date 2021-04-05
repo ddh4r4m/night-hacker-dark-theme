@@ -48,7 +48,7 @@ Select the theme and go!
 
 ## Further Customization
 If you want to set up the panel to the right side of the screen as shown,
-then open Preferences:Open Settings (JSON) and add these lines, depending on your comfort.
+then launch `Preferences:Open Settings (JSON)` using "⇧⌘P" or "Ctrl+Shift+P" and add these lines, depending on your comfort.
 ```json
     "workbench.sideBar.location": "right",    
     "terminal.integrated.fontFamily": "MesloLGS NF",
