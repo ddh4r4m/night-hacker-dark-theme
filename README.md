@@ -22,7 +22,7 @@ or use the setting `editor.tokenColorCustomizations`
 
 ```json
 "editor.tokenColorCustomizations": {
-  "[One Dark Pro]": {
+  "[Night Hacker]": {
     "textMateRules": [
       {
         "scope": ["source.python"],
