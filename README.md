@@ -1,10 +1,10 @@
 # [Night Hacker Dark Theme](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.night-hacker-dark-theme)
 
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/ddh4r4m.night-hacker-dark-theme)](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.night-hacker-dark-theme)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/ddh4r4m.night-hacker-dark-theme)](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.night-hacker-dark-theme)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/ddh4r4m.night-hacker-dark-theme)](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.night-hacker-dark-theme)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/ddh4r4m.night-hacker-dark-theme)](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.night-hacker-dark-theme)
+[![Version](https://vsmarketplacebadge.apphb.com/version/ddh4r4m.night-hacker-dark-theme)](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.night-hacker-dark-theme.svg)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/ddh4r4m.night-hacker-dark-theme)](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.night-hacker-dark-theme.svg)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/ddh4r4m.night-hacker-dark-theme)](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.night-hacker-dark-theme.svg)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/ddh4r4m.night-hacker-dark-theme)](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.night-hacker-dark-theme.svg)
 [![Issues](https://img.shields.io/github/issues/rkstrdee/night-hacker-dark-theme)](https://github.com/rkstrdee/night-hacker-dark-theme/issues)
 
 
